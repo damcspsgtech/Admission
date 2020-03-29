@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//www.marudot.com//iCal Event Maker
+X-WR-CALNAME:Five Year Integrated M.Sc Fashion Design and Merchandising - Counselling & Admission
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+TZURL:http://tzurl.org/zoneinfo-outlook/Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20180413T113304Z
+UID:20180413T113304Z-1050356443@marudot.com
+DTSTART;TZID="Asia/Calcutta":20180606T120000
+DTEND;TZID="Asia/Calcutta":20180606T210000
+SUMMARY:Five Year Integrated M.Sc Fashion Design and Merchandising - Counselling & Admission
+LOCATION:PSG College Of Technology
+END:VEVENT
+END:VCALENDAR
